@@ -4,9 +4,13 @@ set -euo pipefail
 # Install Development Tools
 sudo apt-get install build-essential
 
+# Check the tools
+gcc --version
+make --version
+
 sudo apt install libsdl2-2.0-0 libsdl2-image-2.0-0
 
-# Needed to install 
+# Needed to install
 sudo apt-get install libsdl2-image-dev
 
 # This was automatic
