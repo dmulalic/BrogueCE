@@ -50,7 +50,7 @@ Run the `./brogue` script in the same the folder as this file.
 Make sure you have SDL2 and SDL2_image installed via your package manager. The
 required packages are:
 
-- Debian/Ubuntu: `libsdl2-2.0-0 libsdl2-image-2.0-0`
+- Debian/Ubuntu: `libsdl2-2.0-0 libsdl2-image-2.0-0 libsdl2-image-dev`
 - Fedora: `SDL2 SDL2_image`
 - Arch: `sdl2 sdl2_image`
 
